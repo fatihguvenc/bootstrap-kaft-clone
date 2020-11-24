@@ -1,0 +1,21 @@
+.logo {
+    top: -54px;
+}
+.logo-change:hover .logo2 {
+    display: none;
+}
+.img-hover {
+    top: 0;
+    left: 0;
+    display: none;
+}
+.product-change:hover .img-hover {
+    display: block;
+}
+.product-change:hover .hidden-class {
+    visibility: hidden;
+}
+ul li{
+    list-style-type: none;
+    margin-right: 2rem;
+}
